@@ -1,0 +1,29 @@
+{
+  "name": "m3-w1-d2-assignment",
+  "version": "1.0.0",
+  "description": "M3-W1-Lab-Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "git repository, keywords",
+    "watch": "nodemon ./start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShirleyLoss/M3-W1-D2-Assignment.git"
+  },
+  "author": "Miao Shi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShirleyLoss/M3-W1-D2-Assignment/issues"
+  },
+  "homepage": "https://github.com/ShirleyLoss/M3-W1-D2-Assignment#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
